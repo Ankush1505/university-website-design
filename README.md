@@ -1,4 +1,4 @@
-
+![Screenshot (5)](https://github.com/Ankush1505/university-website-design/assets/115377742/c67965e1-c24f-44f6-91cc-e751b5788d80)
 
 # University Website Project
 
